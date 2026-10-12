@@ -213,9 +213,8 @@ No license has been specified yet. Before making the project available for reuse
 
 ## Author
 
-**YOUR NAME**
+**ANANYA**
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [YOUR_LINKEDIN_PROFILE](YOUR_LINKEDIN_URL)
+- GitHub: https://github.com/Ananya11-yup
 
 If you find this project useful, consider giving the repository a star.
